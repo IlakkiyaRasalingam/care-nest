@@ -185,7 +185,10 @@
 
 @media (max-width: 576px) {
     .topbar {
-        display: none;    
+        display: none;   
+    }
+    .about-img.pb-5.ps-5 {
+        margin-left: -13%;
     }
 }
 /*** Topbar End ***/
